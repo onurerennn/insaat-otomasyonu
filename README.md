@@ -18,7 +18,7 @@ B-) Borç öğrenme: kullanıcı burda borcunu öğrenebilir ve borcunu ödüyeb
 C-) sipariş verme :tüm işlemlerini  yaptıktan sonra hepsinin toplam tutarını sipariş verme kısmında onaylaması lazım ondan sonra güncel borç olarak güncelleniyor    
 
 
-Kodlar Insaat_Otomasyonu klasörü içinde . veri tabanı ve setup Insaat_Otomasyonu klasöründeki bin-debug içerisinde
+
 
 
 
