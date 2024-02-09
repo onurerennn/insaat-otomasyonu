@@ -33,7 +33,7 @@ namespace Insaat_Otomasyon
                     randomcode = (rand.Next(999999)).ToString();
                     MailMessage message = new MailMessage();
                     to = (textBox1.Text).ToString();
-                    Kimden = "eren23233636@gmail.com";
+                    Kimden = "@mail adresiniz";
                     pass = "Uygulama Şifreniz"; //mail adresinize girip ayarlar kısmından uygulama şifresi yazınca 16 hanelik şifre verecektir
                     messagebody = $"Sizin kodunuz Şu {randomcode}";
                     message.To.Add(to);
